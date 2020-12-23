@@ -1,0 +1,13 @@
+{
+  "Post": {
+    "title":   "cadena",
+    "views":   "int",
+    "publicado":   "booleano",
+    "createdAt":   "fecha",
+    "comments":   "Comentario[]"
+  },
+  "Comentario": {
+    "body":   "cadena",
+    "post":   "Publicar"
+  }
+}
